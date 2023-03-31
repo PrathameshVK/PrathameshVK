@@ -1,9 +1,9 @@
 ### Hello, World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
-• This is Prathamesh Kulkarni 😊  
-• Post Graduated in Computer Application 💻  
-• A programmer👨‍💻 who is also a passionate artist 👨‍🎨  
-• In ❤ with web designing and stuff
-• Full time Frontend Engineer, making and breaking stuff using JavaScript
+• This is Prathamesh Kulkarni😊  <br/>
+• Post Graduated in Computer Application🖥️ <br/>
+• A programmer💻 who is also a passionate artist👨‍🎨 <br/>
+• In ❤ with web designing and stuff <br/>
+• Full time Frontend Engineer🛠️, making and breaking stuff using JavaScript👨🏻‍💻 <br/>
 • I play games on my laptop when not making the world a better place😃  
 
 
