@@ -3,7 +3,7 @@
 • Post Graduated in Computer Application🖥️ <br/>
 • A programmer💻 who is also a passionate artist👨‍🎨 <br/>
 • In ❤ with web designing and stuff <br/>
-• Full time Frontend Engineer🛠️, making and breaking stuff using JavaScript👨🏻‍💻 <br/>
+• Full time Frontend Engineer🛠️ making and breaking stuff using JavaScript👨🏻‍💻 <br/>
 • I play games on my laptop when not making the world a better place😃  
 
 
