@@ -15,9 +15,9 @@
 
 ---
 
-
+<!-- 
 ## &#x1f4c8; My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshVK&hide=html,css&theme=dark)
 
-![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVK&theme=dark)
+![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVK&theme=dark) -->
